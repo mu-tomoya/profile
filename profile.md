@@ -19,5 +19,10 @@ Rails CakePHP 2 Vue.js,Nuxt.js (ライブラリだけどJQueryも)
 ## DB
 MySQL
 
+## 自作ブログ
+https://blog.tm-creative.net/
+(Nuxt × Contentful × Netlify)
+
+
 ## WantedlyURL
 https://www.wantedly.com/users/77659133
